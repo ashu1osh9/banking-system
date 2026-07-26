@@ -1,0 +1,6 @@
+//
+
+require =>  
+npx => nodepackage execute
+nodemon => node-monitor  => auto reload 
+dev => developments phase 
